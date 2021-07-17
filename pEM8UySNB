@@ -21,7 +21,6 @@
       },
       "last_updated": "1624012375"
     },
-    
     "3": {
       "title": "Bölüm (Sansürsüz)",
       "volume": "1",
@@ -29,6 +28,14 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/hdpFkfU/"
       },
       "last_updated": "1624012375"
+    },
+    "4": {
+      "title": "Bölüm (Sansürsüz)",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/UHBzziW/"
+      },
+      "last_updated": "1626546547"
     }
   }
 }

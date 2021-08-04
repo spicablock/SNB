@@ -36,6 +36,14 @@
         "Luna Scans TR": "/proxy/api/imgur/chapter/UHBzziW/"
       },
       "last_updated": "1626546547"
+    },
+    "4": {
+      "title": "Bölüm (Son)",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/PVa12kG/"
+      },
+      "last_updated": "1628071172"
     }
   }
 }
